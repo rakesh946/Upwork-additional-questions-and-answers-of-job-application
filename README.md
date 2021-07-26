@@ -39,10 +39,10 @@ Upwork additional questions and answers of job application
 <hr/>
 <p><strong>Q: Do you have any questions about the job description?</strong></p>
 <p>Ans: Your arrangement of the job description is fully understandable and I have understood it very well. Still I have no questions about your job description. If I need any information latter, I must convey you and discuss with you in a friendly circumstances.</p>
-
+<hr/>
 <p><strong>Q: Which of the required job skills do you feel you are strongest at?</strong></p>
 <p>Ans: I have carefully read your job description and I have more than 3 years of working experience in both of your required skills. And I am strongest at all of your required qualities. Hope I will be the perfect worker for you in this project.</p>
-
+<hr/>
 <p><strong>Q: What SEO jobs have you done in the past?</strong></p>
 <p>Ans: I have successfully completed many seo projects before, you can see my employment history and portfolio projects. I hope I will also be successful in this project. You can undoubtedly hire me.</p>
 <hr/>
