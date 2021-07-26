@@ -31,4 +31,18 @@ Upwork additional questions and answers of job application
 <p>Ans: According to your job requirements, I have years of experiences in all fields. And I always use the updated techniques . I have a strong belief that I would be able to make this project successful within time.</p>
 <hr/>
 
+<p><strong>Q: What part of this project most appeals to you?</strong></p>
+<p>Ans: Here the two parts of this project appeal me very much, one is that all the requirements are in favor of me and the second one is I like to do these kind of job. These kind of project and job give me mental satisfaction.</p>
+<hr/>
+<p><strong>Q: Why do you think you are a good fit for this particular project?</strong></p>
+<p>Ans: I think I am a good fit for this job because I have all the qualities that you are looking for. Experience is the golden factor in this project where you find in me at least 3+ years of working experiences over all the factors in your project.</p>
+<hr/>
+<p><strong>Q: Do you have any questions about the job description?</strong></p>
+<p>Ans: Your arrangement of the job description is fully understandable and I have understood it very well. Still I have no questions about your job description. If I need any information latter, I must convey you and discuss with you in a friendly circumstances.</p>
 
+<p><strong>Q: Which of the required job skills do you feel you are strongest at?</strong></p>
+<p>Ans: I have carefully read your job description and I have more than 3 years of working experience in both of your required skills. And I am strongest at all of your required qualities. Hope I will be the perfect worker for you in this project.</p>
+
+<p><strong>Q: What SEO jobs have you done in the past?</strong></p>
+<p>Ans: I have successfully completed many seo projects before, you can see my employment history and portfolio projects. I hope I will also be successful in this project. You can undoubtedly hire me.</p>
+<hr/>
