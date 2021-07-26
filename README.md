@@ -46,3 +46,17 @@ Upwork additional questions and answers of job application
 <p><strong>Q: What SEO jobs have you done in the past?</strong></p>
 <p>Ans: I have successfully completed many seo projects before, you can see my employment history and portfolio projects. I hope I will also be successful in this project. You can undoubtedly hire me.</p>
 <hr/>
+<p><strong>Q: How much time will you need to work on this project to see results and how will you spend your time working on this project?</strong></p>
+<p>Ans: I have a strong belief that I would be able to make this project successful within short time. I will spend my time working on this project hourly with white hat updated method and make it successful.</p>
+<hr/>
+<p><strong>Q:. Have you done high quality back-linking before? if so what sites do you use?</strong></p>
+<p>Ans: Sure I have done high PR back-inkling before and ranked many sites. You can check my employment history and portfolio. </p>
+<hr/>
+<p><strong>Q: Why should i chose you over the other 100 that have applied for this Job?</strong></p>
+<p>Ans: This is a good point you have asked. Here you will found many so called worker who do not know how to work. I am totally different from them. I have a long term plan to work in here, that&rsquo;s why I am here with all qualities and experiences. I am here not to cheat you rather help you.</p>
+<hr/>
+<p><strong>Q: What challenging part of this job are you most experienced in?</strong></p>
+<p>Ans: Everything is now becoming challenging, If one has to win he or she should have the proper knowledge of the present situation. And I am most experienced in this factor. Hope I will make your project successful.</p>
+<hr/>
+<p><strong>Q: Who have you worked with that has yielded quick results. What was the cost to client to receive positive results?</strong></p>
+<p>Ans: I have successfully completed many projects. You can see my portfolio and employment history. And I took the relevant cost, I never ask for high price.</p>
